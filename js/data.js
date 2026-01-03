@@ -11,13 +11,13 @@ const menuData = {
             id: 2,
             name: "Tuzlu Kurabiyeler",
             image: "./images/urunler/tuzlu-kurabiyeler/header-tuzlu-kurabiye.jpg",
-            icon: "🎉"
+            icon: "🥨"
         },
         {
             id: 3,
             name: "Gevrekler",
             image: "./images/urunler/gevrekler/header-gevrekler.jpg",
-            icon: "🎉"
+            icon: "🥯"
         },
         {
             id: 4,
@@ -29,25 +29,25 @@ const menuData = {
             id: 5,
             name: "Hamur İşleri",
             image: "./images/urunler/hamur-isleri/manti-2.jpg",
-            icon: "🧁"
+            icon: "🥖"
         },
         {
             id: 6,
             name: "Simit ve Poğaçalar",
             image: "./images/urunler/simit-ve-pogacalar/header-pogaca.jpg",
-            icon: "🎂"
+            icon: "🥐"
         },
         {
             id: 7,
             name: "İçecekler",
             image: "./images/urunler/icecekler/dimes-icecekler.jpg",
-            icon: "☕"
+            icon: "🥤"
         },
         {
             id: 8,
             name: "Toptan Satış",
             image: "./images/urunler/toptan-satis/damla-cikolatali-kurabiye-kutu.jpg",
-            icon: "☕"
+            icon: "📦"
         }
     ],
     
