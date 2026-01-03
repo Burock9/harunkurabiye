@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kurabiyeci Harun - QR Menü</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo-container">
+                <img src="images/logo/logo.png" alt="Kurabiyeci Harun Logo" class="logo-img">
+                <h1 class="logo">Kurabiyeci Harun</h1>
+            </div>
+            <p class="tagline">Taze ve El Yapımı Ürünler</p>
+        </div>
+    </header>
+
+    <!-- Ana Sayfa - Kategoriler -->
+    <main class="main-content" id="mainContent">
+        <div class="container">
+            <div class="page-title">
+                <h2>Kategoriler</h2>
+                <p>Lütfen bir kategori seçiniz</p>
+            </div>
+            
+            <div class="categories-grid" id="categoriesGrid">
+                <!-- Kategoriler JavaScript ile yüklenecek -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Kategori Detay - Ürünler -->
+    <div class="product-page hidden" id="productPage">
+        <div class="container">
+            <button class="back-button" id="backButton">
+                <span>←</span> Kategorilere Dön
+            </button>
+            
+            <div class="page-title">
+                <h2 id="categoryTitle">Ürünler</h2>
+            </div>
+            
+            <div class="products-grid" id="productsGrid">
+                <!-- Ürünler JavaScript ile yüklenecek -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; Burock tarafından hazırlandı </p>
+        </div>
+    </footer>
+
+    <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
