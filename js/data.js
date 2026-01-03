@@ -56,21 +56,21 @@ const menuData = {
             {
                 id: 101,
                 name: "Damla Çikolatalı Kurabiye",
-                description: "Burak Koçaş",
+                description: "",
                 price: "₺250",
                 image: "./images/urunler/tatli-kurabiyeler/damla-cikolatali-2.jpg"
             },
             {
                 id: 102,
                 name: "Fıstıklı Kurabiye",
-                description: "Tarafından Hazırlanmıştır.",
+                description: "",
                 price: "₺250",
                 image: "./images/urunler/tatli-kurabiyeler/fistikli-kurabiye.jpg"
             },
             {
                 id: 103,
                 name: "Elmalı Kurabiye",
-                description: "Buralar dilediğiniz gibi düzenlenebilir...",
+                description: "",
                 price: "₺250",
                 image: "./images/urunler/tatli-kurabiyeler/elmali-kurabiye.jpeg"
             },
