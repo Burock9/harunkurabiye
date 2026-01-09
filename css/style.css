@@ -327,6 +327,43 @@ body {
     color: var(--text-light);
 }
 
+/* Social Media Button */
+.footer-social {
+    margin-bottom: 20px;
+}
+
+.social-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 28px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    font-family: var(--font-main);
+}
+
+.social-btn.instagram-developer {
+    background: linear-gradient(45deg, #111, #333); /* Daha profesyonel, siyah/koyu tema */
+    color: white;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    font-size: 0.9rem; /* Biraz daha kibar durması için */
+    padding: 10px 20px;
+}
+
+.social-btn.instagram-developer:hover {
+    background: linear-gradient(45deg, #405de6, #833ab4, #fd1d1d); /* Hover'da instagram renkleri çıksın */
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+.copyright {
+    font-size: 1.1rem !important; /* Telif yazısını biraz küçültebiliriz */
+    opacity: 0.7;
+    margin-top: 15px;
+}
+
 /* ===== MOBİL UYUMLULUK ===== */
 @media (max-width: 768px) {
     .logo {
