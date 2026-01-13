@@ -1,4 +1,4 @@
-// Menü verileri - Bu dosyada ürünleri ve kategorileri düzenleyebilirsiniz
+// Menü verileri
 const menuData = {
     categories: [
         {
