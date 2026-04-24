@@ -31,7 +31,7 @@ const menuData = {
             image: "./images/urunler/hamur-isleri/manti-2.jpg",
             icon: "🥖"
         },
-        {
+        /*{
             id: 6,
             name: "Simit ve Poğaçalar",
             image: "./images/urunler/simit-ve-pogacalar/header-pogaca.jpg",
@@ -42,9 +42,9 @@ const menuData = {
             name: "İçecekler",
             image: "./images/urunler/icecekler/dimes-icecekler.jpg",
             icon: "🥤"
-        },
+        },*/
         {
-            id: 8,
+            id: 6,
             name: "Toptan Satış",
             image: "./images/urunler/toptan-satis/damla-cikolatali-kurabiye-kutu.jpg",
             icon: "📦"
@@ -292,14 +292,14 @@ const menuData = {
                 description: " ",
                 price: "₺80",
                 image: "./images/urunler/tatlilar/sekerpare.jpg"
-            },
-            {
+            }
+            /*{
                 id: 408,
                 name: "Lolipop",
                 description: " ",
                 price: "₺15",
                 image: "./images/urunler/tatlilar/lolipop-2.jpeg"
-            }
+            }*/
         ],
         5: [ // Hamur İşleri
             {
@@ -311,7 +311,7 @@ const menuData = {
             },
             {
                 id: 502,
-                name: "Ekşi Mayalı Ekmek",
+                name: "Tam Buğday & Çavdar Ekmeği",
                 description: " ",
                 price: "₺20",
                 image: "./images/urunler/hamur-isleri/eksi-mayali-ekmek.jpg"
@@ -343,23 +343,9 @@ const menuData = {
                 description: " ",
                 price: "₺75",
                 image: "./images/urunler/hamur-isleri/manti-3.jpg"
-            },
-            {
-                id: 507,
-                name: "Gezen Tavuk Yumurtası",
-                description: " ",
-                price: "₺220",
-                image: "./images/urunler/hamur-isleri/yumurta-2.jpg"
-            },
-            {
-                id: 508,
-                name: "Yumurta",
-                description: " ",
-                price: "₺150",
-                image: "./images/urunler/hamur-isleri/yumurta.jpg"
             }
         ],
-        6: [ // Simit ve Poğaçalar
+        /*6: [ // Simit ve Poğaçalar
             {
                 id: 601,
                 name: "İstanbul Simidi",
@@ -502,45 +488,45 @@ const menuData = {
                 price: "₺65",
                 image: "./images/urunler/icecekler/cola-turka.jpg"
             }
-        ],
-        8: [ // Toptan Satış
+        ],*/
+        6: [ // Toptan Satış
             {
-                id: 801,
+                id: 601,
                 name: "Damla Çikolatalı Kurabiye 500 Gr.",
                 description: " ",
                 price: "₺125",
                 image: "./images/urunler/toptan-satis/damla-cikolatali-kurabiye-kutu.jpg"
             },
             {
-                id: 802,
+                id: 602,
                 name: "Fındıklı Kurabiye 500 Gr.",
                 description: " ",
                 price: "₺125",
                 image: "./images/urunler/toptan-satis/findikli-kurabiye-kutu.jpg"
             },
             {
-                id: 803,
+                id: 603,
                 name: "Kakaolu Un Kurabiyesi 500 Gr.",
                 description: " ",
                 price: "₺125",
                 image: "./images/urunler/toptan-satis/kakaolu-un-kurabiyesi-kutu.jpg"
             },
             {
-                id: 804,
+                id: 604,
                 name: "Un Kurabiyesi 500 Gr.",
                 description: " ",
                 price: "₺125",
                 image: "./images/urunler/toptan-satis/un-kurabiyesi-kutu.jpg"
             },
             {
-                id: 805,
+                id: 605,
                 name: "Kandil Simidi 500 Gr.",
                 description: " ",
                 price: "₺125",
                 image: "./images/urunler/toptan-satis/kandil-simidi-kutu.jpg"
             },
             {
-                id: 806,
+                id: 606,
                 name: "Sütlü Yağsız Gevrek 500 Gr.",
                 description: " ",
                 price: "₺125",
