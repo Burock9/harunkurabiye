@@ -57,91 +57,91 @@ const menuData = {
                 id: 101,
                 name: "Damla Çikolatalı Kurabiye",
                 description: "",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tatli-kurabiyeler/damla-cikolatali-2.jpg"
             },
             {
                 id: 102,
                 name: "Fıstıklı Kurabiye",
                 description: "",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tatli-kurabiyeler/fistikli-kurabiye.jpg"
             },
             {
                 id: 103,
                 name: "Elmalı Kurabiye",
                 description: "",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tatli-kurabiyeler/elmali-kurabiye.jpeg"
             },
             {
                 id: 104,
                 name: "Çikolatalı Kurabiye",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tatli-kurabiyeler/cikolatali-kurabiye.jpg"
             },
             {
                 id: 105,
                 name: "Hindistan Cevizli Kurabiye",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tatli-kurabiyeler/hindistan-cevizli-kurabiye.jpg"
             },
             {
                 id: 106,
                 name: "Tarçınlı Kurabiye",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tatli-kurabiyeler/tarcinli-kurabiye.jpeg"
             },
             {
                 id: 107,
                 name: "Üzümlü Kurabiye",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tatli-kurabiyeler/uzumlu-kurabiye.jpg"
             },
             {
                 id: 108,
                 name: "Frambuazlı Kurabiye",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tatli-kurabiyeler/frambuazli-kurabiye.jpg"
             },
             {
                 id: 109,
                 name: "Un Kurabiyesi",
                 description: "Geleneksel tarif, badem aroması",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tatli-kurabiyeler/un-kurabiyesi.jpg"
             },
             {
                 id: 110,
                 name: "Kakaolu Un Kurabiyesi",
                 description: "Taze fındıkla hazırlanan geleneksel lezzet",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tatli-kurabiyeler/kakaolu-un-kurabiyesi.jpg"
             },
             {
                 id: 111,
                 name: "Damla Çikolatalı Un Kurabiyesi",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tatli-kurabiyeler/damla-cikolatali-un-kurabiye.jpg"
             },
             {
                 id: 112,
                 name: "Frambuazlı Un Kurabiyesi",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tatli-kurabiyeler/frambuazli-un-kurabiye.jpg"
             },
             {
                 id: 113,
                 name: "Portakallı Un Kurabiyesi",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tatli-kurabiyeler/portakalli-kurabiye.jpeg"
             }
         ],
@@ -150,40 +150,40 @@ const menuData = {
                 id: 201,
                 name: "Çörekotlu Tuzlu Kurabiye",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tuzlu-kurabiyeler/corekotlu-tuzlu-kurabiye.jpg"
             },
             {
                 id: 202,
                 name: "Ay Çekirdekli Tuzlu Kurabiye",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tuzlu-kurabiyeler/aycekirdekli-tuzlu-kurabiye.jpg"
             },{
                 id: 203,
                 name: "Dereotlu Tuzlu Kurabiye",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tuzlu-kurabiyeler/dereotlu-tuzlu-kurabiye.jpg"
             },{
                 id: 204,
                 name: "Haşhaşlı Tuzlu Kurabiye",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tuzlu-kurabiyeler/hashasli-tuzlu-kurabiye.jpg"
             },
             {
                 id: 205,
                 name: "Susamlı Tuzlu Kurabiye",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tuzlu-kurabiyeler/susamli-tuzlu-kurabiye.jpg"
             },
             {
                 id: 206,
                 name: "Burgu Tuzlu Kurabiye",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/tuzlu-kurabiyeler/burgu-tuzlu-kurabiye.jpg"
             }
         ],
@@ -192,7 +192,7 @@ const menuData = {
                 id: 301,
                 name: "Kandil Simidi",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/gevrekler/kandil-simidi.jpg"
             },
             {
@@ -213,14 +213,14 @@ const menuData = {
                 id: 304,
                 name: "Susamlı Gevrek",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/gevrekler/susamli-gevrek-2.jpg"
             },
             {
                 id: 305,
                 name: "Yağlı Gevrek",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/gevrekler/yagli-gevrek.jpg"
             },{
                 id: 306,
@@ -232,14 +232,14 @@ const menuData = {
                 id: 307,
                 name: "Tandır Usulü Gevrek",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/gevrekler/tandir-usulu-gevrek.jpg"
             },
             {
                 id: 308,
                 name: "Tandır Usulü Düz Gevrek",
                 description: " ",
-                price: "₺250",
+                price: "₺300",
                 image: "./images/urunler/gevrekler/tandir-usulu-gevrek-duz.jpg"
             }
         ],
@@ -311,9 +311,9 @@ const menuData = {
             },
             {
                 id: 502,
-                name: "Tam Buğday & Çavdar Ekmeği",
+                name: "Çavdarlı & Tam Buğdaylı Ekmek",
                 description: " ",
-                price: "₺20",
+                price: "₺35",
                 image: "./images/urunler/hamur-isleri/eksi-mayali-ekmek.jpg"
             },
             {
