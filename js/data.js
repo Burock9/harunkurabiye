@@ -22,7 +22,7 @@ const menuData = {
         {
             id: 4,
             name: "Tatlılar",
-            image: "./images/urunler/tatlilar/tereyagli-cevizli-baklava-2.jpg",
+            image: "./images/urunler/tatlilar/tereyagli-cevizli-baklava-3.jpg",
             icon: "🍮"
         },
         {
