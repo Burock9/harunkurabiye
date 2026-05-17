@@ -248,46 +248,53 @@ const menuData = {
                 id: 401,
                 name: "Tereyağlı Cevizli Baklava",
                 description: " ",
-                price: "₺300",
-                image: "./images/urunler/tatlilar/tereyagli-cevizli-baklava-2.jpg"
+                price: "₺400",
+                image: "./images/urunler/tatlilar/tereyagli-cevizli-baklava-3.jpg"
             },
             {
                 id: 402,
+                name: " Şerbetli Tereyağlı Cevizli Baklava",
+                description: " ",
+                price: "₺550",
+                image: "./images/urunler/tatlilar/serbetli-baklava-2.jpg"
+            },
+            {
+                id: 403,
                 name: "Tereyağlı Cevizli Kadayıf",
                 description: " ",
                 price: "₺250",
                 image: "./images/urunler/tatlilar/tereyagli-cevizli-kadayif.jpg"
             },
             {
-                id: 403,
+                id: 404,
                 name: "Şambali",
                 description: " ",
                 price: "₺200",
                 image: "./images/urunler/tatlilar/sambali.jpg"
             },
             {
-                id: 404,
+                id: 405,
                 name: "Güllaç",
                 description: " ",
                 price: "₺170",
                 image: "./images/urunler/tatlilar/gullac.jpg"
             },
             {
-                id: 405,
+                id: 406,
                 name: "Kemalpaşa",
                 description: " ",
                 price: "₺250",
                 image: "./images/urunler/tatlilar/kemalpasa.jpg"
             },
             {
-                id: 406,
+                id: 407,
                 name: "Kemalpaşa Kutu",
                 description: " ",
                 price: "₺70",
                 image: "./images/urunler/tatlilar/kemalpasa-2.jpg"
             },
             {
-                id: 407,
+                id: 408,
                 name: "Şekerpare",
                 description: " ",
                 price: "₺80",
