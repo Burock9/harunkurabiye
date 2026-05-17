@@ -28,7 +28,7 @@ const menuData = {
         {
             id: 5,
             name: "Hamur İşleri",
-            image: "./images/urunler/hamur-isleri/manti-2.jpg",
+            image: "./images/urunler/hamur-isleri/eksi-mayali-ekmek.jpg",
             icon: "🥖"
         },
         /*{
